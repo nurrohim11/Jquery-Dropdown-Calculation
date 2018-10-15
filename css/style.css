@@ -1,0 +1,14 @@
+#reg_calc_wrapper {
+  width: 175px;
+  position: fixed;
+  left: 30%;
+  top: 0;
+}
+
+.field_reg_calc span {
+  float: right;
+}
+
+.fam_reg_calc {
+  border-top: 1px solid #000;
+}
